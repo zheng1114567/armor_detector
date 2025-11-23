@@ -1,0 +1,4 @@
+*.avi filter=lfs diff=lfs merge=lfs -text
+src/armor_dector/new.avi filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,29 @@
+# 编译产物
+build/
+devel/
+install/
+build_isolated/
+devel_isolated/
+
+# 大文件/二进制文件
+*.bin
+*.pth
+*.so
+*.a
+*.lib
+
+# 日志/缓存
+*.log
+*.cache
+.cache/
+
+# IDE 配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ROS 相关临时文件
+*.bag
+*.pcap
+
